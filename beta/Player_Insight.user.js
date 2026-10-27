@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Player Insight BETA (777 / Vegas)
 // @namespace    player-insight-stage2-beta-isolated
-// @version      4.0.0-beta.2
+// @version      4.0.0-beta.3
 // @description  BETA: тестова збірка Player Insight; не для співробітників.
 // @match        https://admin.777.ua/*
 // @match        https://admin.vegas.ua/*
