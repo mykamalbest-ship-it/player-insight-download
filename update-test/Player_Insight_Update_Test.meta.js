@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Player Insight Update Channel TEST ONLY
 // @namespace    player-insight-update-channel-isolated-test
-// @version      0.0.1
+// @version      0.0.2
 // @description  Безпечна перевірка механізму оновлення Tampermonkey. Не містить Player Insight.
 // @match        https://example.com/*
 // @grant        none
